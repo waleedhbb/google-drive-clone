@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/google-drive-clone/static/css/main.b30f6fc5.css",
+    "main.js": "/google-drive-clone/static/js/main.3d25fe30.js",
+    "static/media/googledrivelogo.png": "/google-drive-clone/static/media/googledrivelogo.037edbdb48b6d4d8ddfa.png",
+    "index.html": "/google-drive-clone/index.html",
+    "main.b30f6fc5.css.map": "/google-drive-clone/static/css/main.b30f6fc5.css.map",
+    "main.3d25fe30.js.map": "/google-drive-clone/static/js/main.3d25fe30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30f6fc5.css",
+    "static/js/main.3d25fe30.js"
+  ]
+}
